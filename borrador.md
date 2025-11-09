@@ -4,7 +4,7 @@
 
 ### Antony675: I am a student at NATIONAL POLYTECHNIC SCHOOL (EPN).
 
-## 👋 About Me  
+ 👋 About Me  
 
 💻 **Software Engineering Student** | 🚀 Passionate about learning, technology, and personal growth.  
 
@@ -42,6 +42,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50"/>
+
+<a href="https://github.com/Antony675">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%"/>
+</a>
+
+## 🚀 By the way, here are some of my GitHub statistics  
+
+![Tony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Antony675&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Antony675&theme=tokyonight" alt="GitHub Streak"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Antony675&theme=tokyonight&layout=compact)
+
+🌱 **I am currently learning:** Agile methodologies, software design, security, and databases.  
+
+<a href="https://github.com/Antony675">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%"/>
+</a>
+
+
 </p>
 
 
