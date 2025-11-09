@@ -59,6 +59,8 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%"/>
 </a>
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Antony675.repoName) [![GitHub followers](https://img.shields.io/github/followers/Antony675.svg?style=social&label=Follow)](https://github.com/Antony675?tab=followers)<br/>
+
 
 </p>
 
