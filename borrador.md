@@ -2,9 +2,9 @@
 
 <p><img align="right" src="https://github.com/Antony675/Antony675/blob/main/Recursos/gifs/animation_500_kxa883sd.gif" alt="Tony675" /></p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Antony675">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+welcome+to+my+GitHub+page;Who+are+you+?;I+am+Tony;I+am+a+Software+Engineering+student;Web+Dev;Game+Dev;Passionate+about+Technology;Soccer+player;Fan+of+Football+⚽+%3C3&background=141321,2A2D91,000000,141321&backgroundX=0&backgroundY=0&backgroundAngle=45&shadowColor=00FFFF&shadowWidth=2" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=Hi+there+👋,+welcome+to+my+GitHub+page;Who+are+you+?;I+am+Tony;I+am+a+Software+Engineering+student;Web+Dev;Game+Dev;Passionate+about+Technology;Soccer+player;Fan+of+Football+⚽+%3C3&background=141321,2A2D91,000000,141321&backgroundX=0&backgroundY=0&backgroundAngle=45&shadowColor=00FFFF&shadowWidth=2" alt="Typing SVG">
   </a>
 
   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Antony675.repoName) [![GitHub followers](https://img.shields.io/github/followers/Antony675.svg?style=social&label=Follow)](https://github.com/Antony675?tab=followers)<br/>
@@ -87,7 +87,7 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="40" width="40" />
   </a>
   <a href="https://instagram.com/tony675_" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
   <a href="https://x.com/antony09913578?t=aNC0cxAB6dJiDE67dBe4Lw&s=09" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" height="40" width="40" />
