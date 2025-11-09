@@ -2,6 +2,18 @@
 
 <p><img align="right" src="https://github.com/Antony675/Antony675/blob/main/Recursos/gifs/animation_500_kxa883sd.gif" alt="Tony675" /></p>
 
+<p align="center">
+  <a href="https://github.com/Antony675">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋,+welcome+to+my+GitHub+page;Who+are+you+?;I+am+Tony;I+am+a+Software+Engineering+student;Web+Dev;Game+Dev;Passionate+about+Technology;Soccer+player;Fan+of+Football+⚽+%3C3&background=141321,2A2D91,000000,141321&backgroundX=0&backgroundY=0&backgroundAngle=45&shadowColor=00FFFF&shadowWidth=2" alt="Typing SVG">
+  </a>
+
+  ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Antony675.repoName) [![GitHub followers](https://img.shields.io/github/followers/Antony675.svg?style=social&label=Follow)](https://github.com/Antony675?tab=followers)<br/>
+
+</p>
+
+
+
+
 ### Antony675: I am a student at NATIONAL POLYTECHNIC SCHOOL (EPN).
 
  👋 About Me  
@@ -16,6 +28,7 @@
 
 > “My greatest project is myself.”
 
+# 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 ## 🧠 Languages & Tools  
 
 <p align="center">
@@ -42,6 +55,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"alt="Windows" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg"alt="Windows" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg"alt="Windows" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"alt="Windows" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg"alt="Windows" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg"alt="Windows" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg"alt="Windows" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg"alt="Windows" width="50" height="50" />       
 
 <a href="https://github.com/Antony675">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%"/>
@@ -59,9 +80,35 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider" width="100%"/>
 </a>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Antony675.repoName) [![GitHub followers](https://img.shields.io/github/followers/Antony675.svg?style=social&label=Follow)](https://github.com/Antony675?tab=followers)<br/>
+<h3 align="left">📬 Connect with me:</h3>
 
-
+<p align="left">
+  <a href="https://www.facebook.com/antony.cobos.428913" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="40" width="40" />
+  </a>
+  <a href="https://instagram.com/tony675_" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="40" width="40" />
+  </a>
+  <a href="https://x.com/antony09913578?t=aNC0cxAB6dJiDE67dBe4Lw&s=09" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X (Twitter)" height="40" width="40" />
+  </a>
+  <a href="https://tiktok.com/@tony675_" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" alt="TikTok" height="40" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40" />
+  </a>
 </p>
+
+
+
+
+### Support Me
+
+if you like what i do, maybe consider buying me a coffee/tea :)
+
+<a href="https://youtu.be/jJPMnTXl63E"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+</p
 
 
