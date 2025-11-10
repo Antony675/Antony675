@@ -1,10 +1,13 @@
 <h1 align="center">Hello <img src="https://github.com/Antony675/Antony675/blob/main/Recursos/gifs/Wave%20Hello%20GIF%20by%20corgiyolk.gif" width="30"> </
 
-<p><img align="right" src="https://github.com/Antony675/Antony675/blob/main/Recursos/gifs/animation_500_kxa883sd.gif" alt="Tony675" /></p>
+<p>
+  <img align="right" src="https://github.com/Antony675/Antony675/blob/main/Recursos/gifs/animation_500_kxa883sd.gif" alt="Antony675" width="400" />
+</p>
+
 
 <p align="left">
   <a href="https://github.com/Antony675">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=400&lines=Hi+there+👋;+welcome+to+my+GitHub+page;Who+are+you+?;I+am+Tony;I+am+a+Software+Engineering+student;Web+Dev;Game+Dev;Passionate+about+Technology;Soccer+player;Fan+of+Football+⚽+%3C3&background=141321,2A2D91,000000,141321&backgroundX=0&backgroundY=0&backgroundAngle=45&shadowColor=00FFFF&shadowWidth=2" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋;+welcome+to+my+GitHub+page;Who+are+you+?;I+am+Tony;I+am+a+Software+Engineering+student;Web+Dev;Game+Dev;Passionate+about+Technology;Soccer+player;Fan+of+Football+⚽+%3C3&background=141321,2A2D91,000000,141321&backgroundX=0&backgroundY=0&backgroundAngle=45&shadowColor=00FFFF&shadowWidth=2" alt="Typing SVG">
   </a>
 
   ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Antony675.repoName) [![GitHub followers](https://img.shields.io/github/followers/Antony675.svg?style=social&label=Follow)](https://github.com/Antony675?tab=followers)<br/>
