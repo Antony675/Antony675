@@ -23,10 +23,9 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width = "600"></a>
 
 
-### 🎓 Antony675: Student at National Polytechnic School (EPN)
+<p><strong>🎓 Antony675: Student at National Polytechnic School (EPN)</strong></p>
 
-<h2 style="border: none;">👨‍💻 About Me</h2>
-
+<h2 style="border-bottom: none;">👨‍💻 About Me</h2>
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" /> 
@@ -34,7 +33,7 @@
 </p>
 
 <p>
-  <p><img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/cpu.svg" width="25" alt="Technology" />
+  <img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/cpu.svg" width="25" alt="Technology" />
   Passionate about <strong>technology</strong>, <strong>innovation</strong>, and <strong>continuous learning</strong>.
 </p>
 
