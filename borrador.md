@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://github.com/Antony675">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋;+welcome+to+my+GitHub+page;Who+are+you+?;I+am+Tony;I+am+a+Software+Engineering+student;Web+Dev;Game+Dev;Passionate+about+Technology;Soccer+player;Fan+of+Football+⚽+%3C3&background=141321,2A2D91,000000,141321&backgroundX=0&backgroundY=0&backgroundAngle=45&shadowColor=00FFFF&shadowWidth=2" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋;+Welcome+to+my+GitHub+page;Who+are+you+?;I+am+Tony;I+am+a+Software+Engineering+student;Web+Dev;Game+Dev;Passionate+about+Technology;Soccer+player;Fan+of+Football+⚽+%3C3&background=141321,2A2D91,000000,141321&backgroundX=0&backgroundY=0&backgroundAngle=45&shadowColor=00FFFF&shadowWidth=2" alt="Typing SVG">
   </a>
 </p>
 
@@ -20,11 +20,13 @@
   </a>
 </p>
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ### 🎓 Antony675: Student at National Polytechnic School (EPN)
 
-<h2>👨‍💻 About Me</h2>
+<h2 style="border-bottom: none;">👨‍💻 About Me</h2>
+
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" /> 
@@ -32,7 +34,7 @@
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/technology/technology-original.svg" width="25" /> 
+  <p><img src="https://cdn.jsdelivr.net/npm/feather-icons/dist/icons/cpu.svg" width="25" alt="Technology" />
   Passionate about <strong>technology</strong>, <strong>innovation</strong>, and <strong>continuous learning</strong>.
 </p>
 
@@ -54,7 +56,8 @@
 
 > “My greatest project is myself.”
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 # 💻 Tech Stack <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" alt="Tech stack gif">
 
@@ -93,7 +96,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/>
 </p>
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 ## 🚀 GitHub Statistics  
 
@@ -109,21 +113,22 @@
 
 <p align="left">
   <a href="https://www.facebook.com/antony.cobos.428913" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" alt="Facebook" height="35" width="35" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/facebook.svg" alt="Facebook" height="35" width="35" />
   </a>
   <a href="https://instagram.com/tony675_" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="Instagram" height="35" width="35" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/instagram.svg" alt="Instagram" height="35" width="35" />
   </a>
   <a href="https://x.com/antony09913578" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" height="35" width="35" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/twitter.svg" alt="X" height="35" width="35" />
   </a>
   <a href="https://tiktok.com/@tony675_" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tiktok.svg" alt="TikTok" height="35" width="35" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/tiktok.svg" alt="TikTok" height="35" width="35" />
   </a>
   <a href="https://linkedin.com/in/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" height="35" width="35" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/linkedin.svg" alt="LinkedIn" height="35" width="35" />
   </a>
 </p>
+
 
 ---
 
