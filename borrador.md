@@ -4,7 +4,7 @@
 </h1>
 
 <p>
-  <img align="right" src="https://github.com/Antony675/Antony675/blob/main/Recursos/gifs/animation_500_kxa883sd.gif" alt="Antony675" width="300" />
+  <img align="right" src="https://github.com/Antony675/Antony675/blob/main/Recursos/gifs/animation_500_kxa883sd.gif" alt="Antony675" width="400" />
 </p>
 
 <p align="left">
@@ -25,7 +25,7 @@
 
 ### 🎓 Antony675: Student at National Polytechnic School (EPN)
 
-<h2 style="border-bottom: none;">👨‍💻 About Me</h2>
+<h2 style="border: none;">👨‍💻 About Me</h2>
 
 
 <p>
