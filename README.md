@@ -4,7 +4,7 @@
 </h1>
 
 <p>
-  <img align="right" src="https://github.com/Antony675/Antony675/blob/main/Recursos/gifs/animation_500_kxa883sd.gif" alt="Antony675" width="300" />
+  <img align="right" src="https://github.com/Antony675/Antony675/blob/main/Recursos/gifs/animation_500_kxa883sd.gif" alt="Antony675" width="200" />
 </p>
 
 <p align="left">
