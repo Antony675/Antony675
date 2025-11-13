@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width = "600"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width ="600"></a>
 
 
 <p><strong>🎓 Antony675: Student at National Polytechnic School (EPN)</strong></p>
@@ -48,7 +48,7 @@
 </p>
 
 <p>
-  🌎 <strong>Ecuador 🇪🇨</strong>
+  <img src="https://github.com/Antony675/Antony675/blob/main/Recursos/gifs/ecuador.gif"1 width="25" /> <strong>Ecuador 🇪🇨</strong>
 </p>
 
 
