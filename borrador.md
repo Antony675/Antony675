@@ -4,12 +4,12 @@
 </h1>
 
 <p>
-  <img align="right" src="https://github.com/Antony675/Antony675/blob/main/Recursos/gifs/animation_500_kxa883sd.gif" alt="Antony675" width="400" />
+  <img align="right" src="https://github.com/Antony675/Antony675/blob/main/Recursos/gifs/animation_500_kxa883sd.gif" alt="Antony675" width="300" />
 </p>
 
 <p align="left">
   <a href="https://github.com/Antony675">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋;+Welcome+to+my+GitHub+page;Who+are+you+?;I+am+Tony;I+am+a+Software+Engineering+student;Web+Dev;Game+Dev;Passionate+about+Technology;Soccer+player;Fan+of+Football+⚽+%3C3&background=141321,2A2D91,000000,141321&backgroundX=0&backgroundY=0&backgroundAngle=45&shadowColor=00FFFF&shadowWidth=2" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there+👋;+Welcome+to+my+GitHub+page;Who+are+you+?;I+am+Tony;I+am+a+Software+Engineering+student;Web+Dev;Game+Dev;Passionate+about+Technology;Soccer+player;Fan+of+Football+⚽+%3C3&background=141321,2A2D91,000000,141321&backgroundX=0&backgroundY=0&backgroundAngle=45&shadowColor=00FFFF&shadowWidth=2" alt="Typing SVG">
   </a>
 </p>
 
@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width = "600"></a>
 
 
 ### 🎓 Antony675: Student at National Polytechnic School (EPN)
